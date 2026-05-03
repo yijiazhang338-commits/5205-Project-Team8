@@ -6,4 +6,7 @@ Team Role
 4. Report: Research Question & Data Suitability & Temporal Pattern: Yijia Zhang, Clustering Technique Selection: Yi Kong, Result: Yuan Yuan, Recommendation - Zuoqing Lyu & Yu-Chien Chen
 5. Report Final Edit: Yijia Zhang & Yi Kong
 
-Branches: Temporal Pattern - Yijia Zhang, Clustering - Yi Kong & Yuan Yuan, Recommendation - Zuoqing Lyu & Yu-Chien Chen
+Branches: 
+Temporal Pattern - Yijia Zhang
+Clustering - Yi Kong & Yuan Yuan 
+Recommendation - Zuoqing Lyu & Yu-Chien Chen
