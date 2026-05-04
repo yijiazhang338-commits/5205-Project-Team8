@@ -1,4 +1,9 @@
 # 5205-Project-Team8
+Analysis & Code Order
+1. Final Temporal Pattern
+2. 5205_G8_Cluster_Final
+3. Recommendation
+
 Team Role
 1. The research problem was decided by all members together.
 2. Proposal: Background: Yi Kong, Literature Review: Yu-Chien Chen, Research Question: Yuan Yuan, Data Description: Zuoqing Lyu, Data Preparation: Yijia Zhang
